@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/XamarinForms/XamarinForms/bin/Debug
+/XamarinForms/XamarinForms/obj/Debug
+/XamarinForms/XamarinForms/GettingStarted.Xamarin
+/XamarinForms/XamarinForms.Droid/bin/Debug
+/XamarinForms/XamarinForms.Droid/obj/Debug
+/XamarinForms/XamarinForms.Droid/Resources/Resource.Designer.cs
+/XamarinForms/XamarinForms.UWP/bin/x86/Debug
+/XamarinForms/XamarinForms.UWP/obj/x86/Debug
