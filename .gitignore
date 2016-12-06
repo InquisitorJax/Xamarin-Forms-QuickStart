@@ -10,3 +10,7 @@
 /XamarinForms/XamarinForms.Droid/Resources/Resource.Designer.cs
 /XamarinForms/XamarinForms.UWP/bin/x86/Debug
 /XamarinForms/XamarinForms.UWP/obj/x86/Debug
+/packages
+/.vs/config
+/XamarinForms/XamarinForms.iOS/obj/iPhone/Debug
+/XamarinForms/XamarinForms/project.lock.json
