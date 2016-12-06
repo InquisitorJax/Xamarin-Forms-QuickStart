@@ -7,7 +7,7 @@ https://blog.xamarin.com/net-standard-library-support-for-xamarin/
 Targets .NET standard 1.4 - which adds support for Xamarin iOS, Android and Windows UWP
 
 Note that if you still want to have PCL dependencies, then you need to update the project.json file to contain an 'imports' statement.
-It should look something like:
+It should look something like: (already done in the source code)
 ```json
 {
 "supports": {},    
