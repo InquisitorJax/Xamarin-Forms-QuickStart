@@ -17,8 +17,7 @@ It should look something like:
   },
   "frameworks": {
     "netstandard1.4": {
-      "imports": [
-        "portable-net45+wp80+win8+wpa81"]
+      "imports": "portable-net45+wp80+win8+wpa81"
    }
   }
 }
