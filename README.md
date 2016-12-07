@@ -22,3 +22,6 @@ It should look something like: (already done in the source code)
   }
 }
 ```
+
+For information on .NET Standard libraries:
+https://blogs.infosupport.com/sharing-code-across-net-platforms-with-net-standard/
