@@ -14,3 +14,5 @@
 /.vs/config
 /XamarinForms/XamarinForms.iOS/obj/iPhone/Debug
 /XamarinForms/XamarinForms/project.lock.json
+/XamarinForms/XamarinForms.iOS/bin/iPhone/Debug
+/XamarinForms/XamarinForms.iOS/obj/iPhoneSimulator/Debug

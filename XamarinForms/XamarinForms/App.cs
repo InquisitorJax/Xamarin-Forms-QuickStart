@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-using Xamarin.Forms;
+﻿using Xamarin.Forms;
 
 namespace XamarinForms
 {
@@ -19,7 +14,7 @@ namespace XamarinForms
                     VerticalOptions = LayoutOptions.Center,
                     Children = {
                         new Label {
-                            XAlign = TextAlignment.Center,
+                            HorizontalTextAlignment = TextAlignment.Center,
                             Text = "Welcome to Xamarin Forms!"
                         }
                     }
@@ -27,9 +22,9 @@ namespace XamarinForms
             };
         }
 
-        protected override void OnStart()
+        protected override void OnResume()
         {
-            // Handle when your app starts
+            // Handle when your app resumes
         }
 
         protected override void OnSleep()
@@ -37,9 +32,9 @@ namespace XamarinForms
             // Handle when your app sleeps
         }
 
-        protected override void OnResume()
+        protected override void OnStart()
         {
-            // Handle when your app resumes
+            // Handle when your app starts
         }
     }
 }
