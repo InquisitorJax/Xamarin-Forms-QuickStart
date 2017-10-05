@@ -11,8 +11,12 @@
 /XamarinForms/XamarinForms.UWP/bin/x86/Debug
 /XamarinForms/XamarinForms.UWP/obj/x86/Debug
 /packages
-/.vs/config
+/.vs
 /XamarinForms/XamarinForms.iOS/obj/iPhone/Debug
 /XamarinForms/XamarinForms/project.lock.json
 /XamarinForms/XamarinForms.iOS/bin/iPhone/Debug
 /XamarinForms/XamarinForms.iOS/obj/iPhoneSimulator/Debug
+/XamarinFormsNetStandard/bin/Debug/netstandard2.0
+/XamarinFormsNetStandard/obj
+/XamarinForms/XamarinForms.Droid/obj/.cache
+/XamarinForms/XamarinForms.UWP/obj

@@ -128,8 +128,9 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\XamarinForms\XamarinForms.csproj">
-      <Name>XamarinForms</Name>
+    <ProjectReference Include="..\..\XamarinFormsNetStandard\XamarinFormsNetStandard.csproj">
+      <Project>{e904bd25-1f05-4a0d-a894-dc2592c087c0}</Project>
+      <Name>XamarinFormsNetStandard</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
