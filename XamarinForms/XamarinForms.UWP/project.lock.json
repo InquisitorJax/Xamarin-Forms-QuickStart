@@ -24686,31 +24686,34 @@
     "UAP,Version=v10.0.10586": []
   },
   "packageFolders": {
-    "C:\\Users\\inqui\\.nuget\\packages\\": {}
+    "C:\\Users\\MalcolmJ\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\DEV\\Git\\Xamarin-Forms-QuickStart\\XamarinForms\\XamarinForms.UWP\\XamarinForms.UWP.csproj",
+      "projectUniqueName": "D:\\@D3V\\GitJax\\Xamarin-Forms-QuickStart\\XamarinForms\\XamarinForms.UWP\\XamarinForms.UWP.csproj",
       "projectName": "XamarinForms.UWP",
-      "projectPath": "C:\\DEV\\Git\\Xamarin-Forms-QuickStart\\XamarinForms\\XamarinForms.UWP\\XamarinForms.UWP.csproj",
-      "projectJsonPath": "C:\\DEV\\Git\\Xamarin-Forms-QuickStart\\XamarinForms\\XamarinForms.UWP\\project.json",
-      "packagesPath": "C:\\Users\\inqui\\.nuget\\packages\\",
-      "outputPath": "C:\\DEV\\Git\\Xamarin-Forms-QuickStart\\XamarinForms\\XamarinForms.UWP\\obj\\",
+      "projectPath": "D:\\@D3V\\GitJax\\Xamarin-Forms-QuickStart\\XamarinForms\\XamarinForms.UWP\\XamarinForms.UWP.csproj",
+      "projectJsonPath": "D:\\@D3V\\GitJax\\Xamarin-Forms-QuickStart\\XamarinForms\\XamarinForms.UWP\\project.json",
+      "packagesPath": "C:\\Users\\MalcolmJ\\.nuget\\packages\\",
+      "outputPath": "D:\\@D3V\\GitJax\\Xamarin-Forms-QuickStart\\XamarinForms\\XamarinForms.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
-        "C:\\Users\\inqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MalcolmJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "sources": {
+        "C:\\PragmaDev\\OKSource\\OnKey\\NuGet\\packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin/": {},
+        "C:\\Users\\MalcolmJ\\.dotnet\\NuGetFallbackFolder": {},
+        "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {},
+        "http://prods-tfs:8080/Pragma/_packaging/PragmaNuGet/nuget/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "uap10.0.10586": {
           "projectReferences": {
-            "C:\\DEV\\Git\\Xamarin-Forms-QuickStart\\XamarinFormsNetStandard\\XamarinFormsNetStandard.csproj": {
-              "projectPath": "C:\\DEV\\Git\\Xamarin-Forms-QuickStart\\XamarinFormsNetStandard\\XamarinFormsNetStandard.csproj"
+            "D:\\@D3V\\GitJax\\Xamarin-Forms-QuickStart\\XamarinFormsNetStandard\\XamarinFormsNetStandard.csproj": {
+              "projectPath": "D:\\@D3V\\GitJax\\Xamarin-Forms-QuickStart\\XamarinFormsNetStandard\\XamarinFormsNetStandard.csproj"
             }
           }
         }
